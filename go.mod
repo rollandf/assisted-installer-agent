@@ -9,7 +9,7 @@ require (
 	github.com/go-openapi/swag v0.19.12
 	github.com/google/uuid v1.1.4
 	github.com/hashicorp/go-multierror v1.1.0
-	github.com/jaypipes/ghw v0.6.1
+	github.com/jaypipes/ghw v0.7.0
 	github.com/onsi/ginkgo v1.14.2
 	github.com/onsi/gomega v1.10.4
 	github.com/openshift/assisted-service v1.0.10-0.20210106081741-56fcb64109c9
